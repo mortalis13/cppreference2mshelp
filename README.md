@@ -5,7 +5,7 @@ cppreference.com html archive converter to microsoft help (for Windows Visual St
 
 ## Details of the fork:
 
-- .chm [releases](https://github.com/mortalis13/cppreference2mshelp/releases)
+- **CHM** [releases](https://github.com/mortalis13/cppreference2mshelp/releases)
 
 ---
 
