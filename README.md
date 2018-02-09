@@ -1,6 +1,14 @@
 # cppreference2mshelp
 cppreference.com html archive converter to microsoft help (for Windows Visual Studio 2012+) and good old .chm help (for any Windows and even some other platforms)
 
+---
+
+## Details of the fork:
+
+- .chm [releases](https://github.com/mortalis13/cppreference2mshelp/releases)
+
+---
+
 ## Prerequires:
 
 1) Windows x64 (LOL, I'm mad). Actually any system will be ok, you should use another tools in this case to make cab file, zip file and digitally sign cab (for Visual Studio Help). However there is no alternative for [HTML Help Workshop](https://www.microsoft.com/en-us/download/details.aspx?id=21138) from Microsoft (for chm based help).
